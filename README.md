@@ -36,7 +36,7 @@ Basado en mis proyectos, estas son las tecnologías que he estado utilizando:
 
 ### 🚀 Mis Proyectos
 
-#### Proyectos Grupales (PowerSystem2024)
+#### Proyectos Grupales (Genezis)
 Estos son algunos de los proyectos colaborativos en los que he participado como parte de la organización **PowerSystem2024**:
 
 * **App de Turnos Médicos:** [PowerSystem2024-App-StartUp-Genezis](https://github.com/PowerSystem2024/PowerSystem2024-App-StartUp-Genezis)
