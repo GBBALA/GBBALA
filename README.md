@@ -40,8 +40,6 @@ Basado en mis proyectos, estas son las tecnologías que he estado utilizando:
 Estos son algunos de los proyectos colaborativos en los que he participado como parte de la organización **PowerSystem2024**:
 
 * **App de Turnos Médicos:** [PowerSystem2024-App-StartUp-Genezis](https://github.com/PowerSystem2024/PowerSystem2024-App-StartUp-Genezis)
-* **Proyecto E-Commerce (Backend):** [Genezis-Repo-Backend-Ecommerce](https://github.com/PowerSystem2024/Genezis-Repo-Backend-Ecommerce)
-* **Proyecto E-Commerce (Frontend):** [Genezis-Repo-Frontend-Ecommerce](https://github.com/PowerSystem2024/Genezis-Repo-Frontend-Ecommerce)
 * **Proyecto Homebanking (PI2):** [Genezis-Repo-PI2](https://github.com/PowerSystem2024/Genezis-Repo-PI2)
 * **Repositorio 3er Semestre:** [Genezis-Repo-Tercer-Semestre](https://github.com/PowerSystem2024/Genezis-Repo-Tercer-Semestre)
 * **Repositorio 4to Semestre:** [Genezis-Repo-Cuarto-Semestre](https://github.com/PowerSystem2024/Genezis-Repo-Cuarto-Semestre)
