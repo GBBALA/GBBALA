@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy estudiante de la **Tecnicatura Universitaria en Programación (TUP)** en la **Universidad Tecnológica Nacional (UTN)**, apasionado por el desarrollo de software y en constante aprendizaje.
 
-Aquí documento tanto mis proyectos personales como mis contribuciones a proyectos grupales de la facultad.
+Acá documento tanto mis proyectos personales como mis contribuciones a proyectos grupales de la facultad.
 
 ---
 
@@ -62,6 +62,6 @@ Estos son mis repositorios personales donde aplico y practico mis conocimientos:
 
 ---
 
-### 📫 ¿Cómo contactarme?
-* **LinkedIn:** [https://linkedin.com/in/tu-usuario-aqui](https://linkedin.com/in/tu-usuario-aqui) (¡Reemplaza esto con tu enlace!)
-* **Email:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com) (¡Pon tu email aquí!)
+### 📫 CONTACTO
+* **LinkedIn:** [https://linkedin.com/in/tu-usuario-aqui](https://linkedin.com/in/tu-usuario-aqui)
+* **Email:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com) 
