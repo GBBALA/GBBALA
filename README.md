@@ -61,7 +61,3 @@ Estos son mis repositorios personales donde aplico y practico mis conocimientos:
 </p>
 
 ---
-
-### 📫 CONTACTO
-* **LinkedIn:** [https://linkedin.com/in/tu-usuario-aqui](https://linkedin.com/in/tu-usuario-aqui)
-* **Email:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com) 
