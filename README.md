@@ -69,6 +69,3 @@ Desarrollo de una plataforma de comercio electrónico escalable con arquitectura
 </p>
 
 ---
-<p align="center">
-  <em>"El código limpio siempre parece que fue escrito por alguien a quien le importa."</em>
-</p>
