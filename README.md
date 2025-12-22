@@ -1,10 +1,10 @@
 # ¡Hola! Soy Javier Quiroga (GBBALA) 👋
 
-### 🚀 Full Stack Developer en formación | Estudiante de Programación en la UTN
+### 🚀 Full Stack Developer en formación | Recibido de Tecnico Superior en Programación en la UTN
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-quiroga-it)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://javierquiroga.vercel.app/)
 
-Soy estudiante de la **Tecnicatura Universitaria en Programación (TUP)** en la **Universidad Tecnológica Nacional (UTN)**. Me enfoco en construir software robusto, escalable y con buenas prácticas. Actualmente, documento mi evolución técnica a través de proyectos académicos y desafíos personales.
+Me enfoco en construir software robusto, escalable y con buenas prácticas. Actualmente, documento mi evolución técnica a través de proyectos académicos y desafíos personales.
 
 ---
 
