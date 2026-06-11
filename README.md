@@ -1,6 +1,6 @@
-# ¡Hola! Soy Javier Quiroga (GBBALA) 👋
+# ¡Hola! Soy Javier Quiroga (GBBALA) 
 
-### 🚀 Full Stack Developer en formación | Recibido de Tecnico Superior en Programación en la UTN
+###  Full Stack Developer en formación | Recibido de Tecnico Superior en Programación en la UTN
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-quiroga-it)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://javierquiroga.vercel.app/)
 
@@ -8,7 +8,7 @@ Me enfoco en construir software robusto, escalable y con buenas prácticas. Actu
 
 ---
 
-### 🛠️ Stack Tecnológico
+###  Stack Tecnológico
 
 Como desarrollador con enfoque Full Stack, divido mis herramientas para garantizar una arquitectura limpia:
 
@@ -39,25 +39,25 @@ Como desarrollador con enfoque Full Stack, divido mis herramientas para garantiz
 
 ---
 
-### 📂 Proyectos Destacados
+###  Proyectos Destacados
 
-#### 🌟 Proyecto Final Integrador: E-Commerce Full Stack
+####  Proyecto Final Integrador: E-Commerce Full Stack
 Desarrollo de una plataforma de comercio electrónico escalable con arquitectura desacoplada:
-* 🛒 **Frontend:** Desarrollado con React y gestión de estado avanzada. [Genezis-Repo-Frontend-Ecommerce](https://github.com/PowerSystem2024/Genezis-Repo-Frontend-Ecommerce)
-* ⚙️ **Backend:** API REST robusta construida con Spring Boot / Java. [Genezis-Repo-Backend-Ecommerce](https://github.com/PowerSystem2024/Genezis-Repo-Backend-Ecommerce)
+*  **Frontend:** Desarrollado con React y gestión de estado avanzada. [Genezis-Repo-Frontend-Ecommerce](https://github.com/PowerSystem2024/Genezis-Repo-Frontend-Ecommerce)
+*  **Backend:** API REST robusta construida con Spring Boot / Java. [Genezis-Repo-Backend-Ecommerce](https://github.com/PowerSystem2024/Genezis-Repo-Backend-Ecommerce)
 
-#### 👥 Colaboraciones Grupales (Genezis / PowerSystem2024)
-* 🏥 **App de Turnos Médicos:** Sistema integral para gestión de salud. [Ver Repositorio](https://github.com/PowerSystem2024/PowerSystem2024-App-StartUp-Genezis)
-* 🏦 **Homebanking (PI2):** Implementación de lógica financiera y seguridad. [Ver Repositorio](https://github.com/PowerSystem2024/Genezis-Repo-PI2)
-* 🎓 **Evolución Académica:** Seguimiento técnico en el [4to Semestre](https://github.com/PowerSystem2024/Genezis-Repo-Cuarto-Semestre).
+####  Colaboraciones Grupales (Genezis / PowerSystem2024)
+*  **App de Turnos Médicos:** Sistema integral para gestión de salud. [Ver Repositorio](https://github.com/PowerSystem2024/PowerSystem2024-App-StartUp-Genezis)
+*  **Homebanking (PI2):** Implementación de lógica financiera y seguridad. [Ver Repositorio](https://github.com/PowerSystem2024/Genezis-Repo-PI2)
+*  **Evolución Académica:** Seguimiento técnico en el [4to Semestre](https://github.com/PowerSystem2024/Genezis-Repo-Cuarto-Semestre).
 
-#### 👤 Iniciativas Personales
-* 🎨 **[Portafolio](https://github.com/GBBALA/Portafolio):** Mi carta de presentación digital.
-* 👩‍🚒 **[Bomberos-WEB](https://github.com/GBBALA/bomberos-central-27):** Sistema de gestión web para cuerpo de bomberos.
+####  Iniciativas Personales
+*  **[Portafolio](https://github.com/GBBALA/Portafolio):** Mi carta de presentación digital.
+*  **[Bomberos-WEB](https://github.com/GBBALA/bomberos-central-27):** Sistema de gestión web para cuerpo de bomberos.
 
 ---
 
-### 📈 Actividad y Estadísticas
+###  Actividad y Estadísticas
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GBBALA&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="Estadísticas de Javier" />
